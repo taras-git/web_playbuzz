@@ -5,6 +5,7 @@ BASIC INFO.
 
 This project (AppTest) is done using Java, Webdriver, Page Object pattern, Property (*.ini) files, and TestNg framework for running, generating and sending by email test run reports.
 
+(pls see pl_b_web_demo.mp4)
 
 
 PROJECT STRUCTURE.
